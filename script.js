@@ -42,7 +42,6 @@ document.addEventListener('DOMContentLoaded', () => {
         { code: '&#9918;', decimal: '9918' },
         { code: '&#9924;', decimal: '9924' },
         { code: '&#9925;', decimal: '9925' },
-        { code: '&#9934;', decimal: '9934' },
         { code: '&#9940;', decimal: '9940' },
         { code: '&#9962;', decimal: '9962' },
         { code: '&#9970;', decimal: '9970' },
@@ -64,10 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { code: '&#10135;', decimal: '10135' },
         { code: '&#10160;', decimal: '10160' },
         { code: '&#10175;', decimal: '10175' },
-        { code: '&#11035;', decimal: '11035' },
-        { code: '&#11036;', decimal: '11036' },
-        { code: '&#11088;', decimal: '11088' },
-        { code: '&#11093;', decimal: '11093' }
+    
     ];
 
     const emojiGallery = document.getElementById('emoji-gallery');
